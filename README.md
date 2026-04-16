@@ -29,7 +29,7 @@ Bio 外链中的邮箱信息。
 
 ### 1. Install Python
 
-Download: https://www.python.org/\
+Download: https://www.python.org/
 Version: Python 3.9+
 
 ------------------------------------------------------------------------
