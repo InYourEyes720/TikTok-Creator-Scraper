@@ -24,6 +24,12 @@ Bio 外链中的邮箱信息。
 -   Export results to CSV
 
 ------------------------------------------------------------------------
+## 📖 Tutorial / 教程指南
+
+👉 Full guide available here:
+https://www.notion.so/TK-by-Eth-344e7d9efd848061a892d4503cb1ff86
+
+------------------------------------------------------------------------
 
 ## 🛠️ Installation
 
