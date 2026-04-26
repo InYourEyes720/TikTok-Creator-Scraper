@@ -99,3 +99,10 @@ python tiktok-creator-scraper.py
 
 This project is for educational purposes only. Do not use it in
 violation of TikTok's terms of service.
+
+
+---
+
+## 👤 Author
+
+Ethan(iny720)
